@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there!
 
 Welcome to my GitHub profile! I'm a Solution Architect and Software Developer passionate about building efficient, scalable, and user-friendly applications. I enjoy solving complex problems, learning new technologies, and contributing to open-source projects.
 
