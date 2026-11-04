@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm a Solution Architect and Software Developer pa
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kavatari&show_icons=true&hide_title=true&theme=transparent&hide_border=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=kavatari&hide_border=true&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavatari&layout=compact&theme=transparent&hide_border=true)
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=kavatari&days=30&width=320&height=80)
 
 ---
 
